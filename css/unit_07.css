@@ -223,6 +223,7 @@ float: left;
 }
 .task-8 .b-2 {
     float: left;
+    width: 50%;
 }
 .task-8 .b-4 {
     float: right;
@@ -233,12 +234,17 @@ float: left;
 
 .nav-9 {
     padding: 5px;
+    height: 50px;
 }
 
-.nav-9 ul {
+.nav-9 ul { 
+    
 }
 
-.nav-9 ul li {
+.nav-9 ul li { 
+    float:  left;
+    
+   
 }
 
 /* task-10 ======================== */
