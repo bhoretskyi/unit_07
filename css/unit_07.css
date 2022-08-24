@@ -273,4 +273,5 @@ float: left;
     list-style-type: none;
     padding: 10px;
     border: 1px solid #000;
+    margin-right: -5px;
 }
