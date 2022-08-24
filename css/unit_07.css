@@ -160,6 +160,18 @@ float: left;
 }
 
 /* task 5  ============= */
+.task-5 .b-1 {
+    float: left;
+    width: 50%;
+}
+.task-5 .b-2 {
+    float: right;
+    width: 50%;
+}
+.task-5 .b-3 {
+    float: left;
+    width: 33%;
+}
 
 /* task 6  ============= */
 
