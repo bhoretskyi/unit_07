@@ -174,8 +174,39 @@ float: left;
 }
 
 /* task 6  ============= */
+.task-6 .header {
+    width: 100%;
+    
+}
+.task-6 .b-2 {
+    float: left;
+    width: 30%;
+}
+.task-6 .b-4 {
+    
+}
 
 /* task 7  ============= */
+.task-7 .b-1 {
+    float: left;
+    width: 33%
+   
+}
+.task-7 .b-2
+{float: left;   
+    width: 33%;
+
+    
+}
+.task-7 .b-3 { 
+    float: right;
+    width: 34%;
+    
+}
+.task-7 .b-4 {
+    float: left;
+    width: 75%;
+}
 
 /* task-8 ============== */
 
