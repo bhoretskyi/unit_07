@@ -217,6 +217,17 @@ float: left;
     padding: 10px;
     min-height: 50px;
 }
+.task-8 .b-1 {
+    float: left;
+    width: 50%;
+}
+.task-8 .b-2 {
+    float: left;
+}
+.task-8 .b-4 {
+    float: right;
+    width: 50%;
+}
 
 /* task-9 ======================== */
 
