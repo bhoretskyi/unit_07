@@ -124,10 +124,40 @@ float: left;
 }
 
 /* task 2  ============= */
+.t-1, .t-2 {
+    float: left;
+}
 
 /* task 3  ============= */
+ .task-3 .t-1 {
+   
+    float: left;  
+    width: 50%;
+
+ 
+   
+    
+}
+ .task-3 .t-2 {
+    float: right;
+    width: 50%;
+    
+    
+    
+ 
+}
 
 /* task 4  ============= */
+.task-4 .b-1 {
+    float: left;
+    width: 50%;
+
+}
+.task-4 .b-2 {
+    float: right;
+    width: 50% ;
+
+}
 
 /* task 5  ============= */
 
